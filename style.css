@@ -96,3 +96,19 @@ main{
     padding-left: 4px;
     padding-right: 15px;
 }
+
+.faktadiv{
+    grid-row: 4/5;
+    grid-column: 6/7;
+    background-color: #D9D9D9;
+}
+
+#kladkakan{
+    width: 500px;
+    height: 205px;
+}
+#text{
+    font-size: 14px;
+    padding: 4px;
+  
+}
